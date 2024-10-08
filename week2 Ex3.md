@@ -14,6 +14,7 @@ select name, type from airport where iso_country = "FI" order by type asc, name 
 Q5
 select name from country where left(name, 1) = "F";
 ![screenshot]<img width="888" alt="Screenshot 2024-09-30 at 13 08 04" src="https://github.com/user-attachments/assets/8ebd5d19-48f5-440c-b716-3e5281f48949">
+
 Q6
 select name from country where name like "%F%";
 ![screenshot]<img width="885" alt="Screenshot 2024-09-30 at 13 11 05" src="https://github.com/user-attachments/assets/c5c89792-9c55-4911-bc22-e1b9a96ad950">
