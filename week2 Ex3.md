@@ -18,12 +18,15 @@ select name from country where left(name, 1) = "F";
 Q6
 select name from country where name like "%F%";
 ![screenshot]<img width="885" alt="Screenshot 2024-09-30 at 13 11 05" src="https://github.com/user-attachments/assets/c5c89792-9c55-4911-bc22-e1b9a96ad950">
+
 Q7
 select location from game where screen_name="Vesa";
 ![screenshot]<img width="885" alt="Screenshot 2024-09-30 at 14 54 45" src="https://github.com/user-attachments/assets/cf9ab172-2a0b-4ef0-be8b-a8a72bc6a842">
+
 Q8
 select co2_consumed from game where screen_name="ILkka"
 ![screenshot]<img width="564" alt="Screenshot 2024-09-30 at 15 06 08" src="https://github.com/user-attachments/assets/484daca9-46b0-4d3f-8bcd-3b83fb869ed9">
+
 Q9
 select co2_budget from game where id ="1";
 ![screenshot]<img width="564" alt="Screenshot 2024-09-30 at 15 13 26" src="https://github.com/user-attachments/assets/59b55217-7958-44f4-9ab1-3869d50ec0d3">
